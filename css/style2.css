@@ -1,4 +1,5 @@
 .da-slider{
+	z-index: 1;
 	width: 100%;
 	min-width: 520px;
 	height: 400px;

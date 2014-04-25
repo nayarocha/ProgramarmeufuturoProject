@@ -1,0 +1,14 @@
+content{
+	margin: 0;
+}
+content .title{
+	display: block;
+	height: 50px;
+	background: #FF5943;
+}
+	.title .centraliza{
+		width: 1000px;
+		margin: 0 auto;
+	}
+
+
